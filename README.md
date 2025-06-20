@@ -6,8 +6,13 @@ Original design in Onshape is available [here](https://cad.onshape.com/documents
 
 ![](https://github.com/OpenEDM/.github/blob/main/images/wire_edm_machine_3d_model.png)
 
-## TODO
+## TODO (short-term)
 
 - [ ] Add the Y axis
 - [ ] Use the integrated drivers working via CAN ([CLN](https://github.com/creapunk/CLN-ClosedLoopNemaDriver)) for X and Y axes
-- [ ] Redesign the tensioner unit electronics. Eventually it should be the integrated PCB controlled via CAN
+- [ ] Redesign the tensioner unit electronics. Eventually it should be an integrated PCB controlled via CAN
+- [ ] Add a BOM and an assembly guide
+
+## TODO (long-term)
+
+- [ ] Simplify the wire reloading process in case of a snap. For example, allow the C-Arc to be lifted out of the water
