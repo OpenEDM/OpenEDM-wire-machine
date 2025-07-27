@@ -5,14 +5,3 @@ This repository contains the mechanical design of the **Wire EDM Machine**. Note
 Original design in Onshape is available [here](https://cad.onshape.com/documents/d808d334815f6391200f02e7/w/40b402628c5247ddfcb0c3d0/e/3c6d6dff33ef9a7347b97408?renderMode=0&leftPanel=false&uiState=6854a0c922ad9a04441f8f42).
 
 ![](https://github.com/OpenEDM/.github/blob/main/images/wire_edm_machine_3d_model.png)
-
-## TODO (short-term)
-
-- [ ] Add the Y axis
-- [ ] Use the integrated drivers working via CAN ([CLN](https://github.com/creapunk/CLN-ClosedLoopNemaDriver)) for X and Y axes
-- [ ] Redesign the tensioner unit electronics. Eventually it should be an integrated PCB controlled via CAN
-- [ ] Add a BOM and an assembly guide
-
-## TODO (long-term)
-
-- [ ] Simplify the wire reloading process in case of a snap. For example, allow the C-Arc to be lifted out of the water
